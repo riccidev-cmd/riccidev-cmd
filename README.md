@@ -11,7 +11,7 @@
   </a>
 
   <a href="https://github.com/riccidev-cmd">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccidev-cmd&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
   </a>
 
 </div>
