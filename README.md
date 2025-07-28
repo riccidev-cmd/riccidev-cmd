@@ -4,14 +4,21 @@
 - 🌱 Estou Estudando HTML, CSS e C++
 - 😄 Pronomes: ele/dele
 
-<div>
+<div style="display: flex; justify-content: space-around; align-items: center;">
+
   <a href="https://github.com/riccidev-cmd">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=riccidev-cmd&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccidev-cmd&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=riccidev-cmd&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" style="border-radius: 10px;"/>
   </a>
+
+  <a href="https://github.com/riccidev-cmd">
+    <img height="180"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccidev-cmd&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" style="border-radius: 10px;"/>
+  </a>
+
 </div>
 
-<div style="display: inline_block"><br>
+<br>
+
+<div style="display: inline_block; text-align: center;">
   <img align="center" alt="RICCI-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="RICCI-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="RICCI-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -22,7 +29,9 @@
   <img align="right" alt="ricci-img" height="300" width="200" src="https://github.com/user-attachments/assets/2ab3cf68-4e9f-475f-9597-62d7e1ce06e3" />
 </div>
 
-<div> 
+<br>
+
+<div style="text-align: center;"> 
   <a href="https://www.instagram.com/heitorriccii" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
