@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/riccidev-cmd">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=riccidev-cmd&show_icons=true&theme=transparent"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccidev-cmd&layout=compact"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=riccidev-cmd&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccidev-cmd&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
   </a>
 </div>
 
