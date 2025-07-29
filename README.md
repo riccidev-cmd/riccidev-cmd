@@ -1,17 +1,11 @@
-## HELLO! Eu sou o Heitor Reis Ricci
-
-- 🔭 Estou Estudando no Momento
-- 🌱 Estou Estudando HTML, CSS e C++
-- 😄 Pronomes: ele/dele
-
 <div style="display: flex; justify-content: space-around; align-items: center;">
 
   <a href="https://github.com/riccidev-cmd">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=riccidev-cmd&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=riccidev-cmd&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" style="border-radius: 10px;"/>
   </a>
 
   <a href="https://github.com/riccidev-cmd">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccidev-cmd&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccidev-cmd&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" style="border-radius: 10px;"/>
   </a>
 
 </div>
@@ -26,7 +20,7 @@
   <img align="center" alt="RICCI-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" alt="RICCI-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
   <img align="center" alt="RICCI-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-
+  <img align="right" alt="ricci-img" height="300" width="200" src="https://github.com/user-attachments/assets/2ab3cf68-4e9f-475f-9597-62d7e1ce06e3" />
 </div>
 
 <br>
