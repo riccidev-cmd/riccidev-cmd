@@ -4,7 +4,17 @@
 - 🌱 Estou Estudando HTML, CSS e C++
 - 😄 Pronomes: ele/dele 
 
+<div style="display: flex; justify-content: space-around; align-items: center;">
 
+  <a href="https://github.com/riccidev-cmd">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=riccidev-cmd&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" style="border-radius: 10px;"/>
+  </a>
+
+  <a href="https://github.com/riccidev-cmd">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccidev-cmd&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" style="border-radius: 10px;"/>
+  </a>
+
+</div> 
 
 <br>
 
